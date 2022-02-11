@@ -2,8 +2,13 @@ Esta es la historia de Jesus Duran
 Jesus Duran tiene 23 años y nacio en Mexico.
 Mañana nos enfocaremos en su vida laboral.
 master 1
-<<<<<<< HEAD
+
+
 master 2
-=======
+
 experimento1
->>>>>>> 050f504 (exp1)
+
+
+experimento1
+Esperimento 2
+
